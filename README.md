@@ -2,7 +2,7 @@
 * npm ci 
 
 # Run
-* npx codeceptjs run --steps   - run all tests with steps console show
+* npx codeceptjs run - run tests
 
 # Get allure report
 * allure serve output
